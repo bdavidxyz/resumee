@@ -131,6 +131,9 @@ li {
 .row-top {
   margin-top: 0;
 }
+.row-smallspace {
+  margin-top: 1rem;
+}
 
 /* INTRO
 ============================================================================*/
@@ -138,7 +141,7 @@ li {
 .intro {
   font-style: italic;
   color: #666;
-  margin-top: 2rem;
+  margin-top: 1rem;
   font-size: 1.1429em;
 }
 
